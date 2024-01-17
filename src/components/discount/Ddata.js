@@ -45,4 +45,4 @@ const Ddata = [
     price: "₹80",
   },
 ];
-export default Ddata
+export default Ddata;
