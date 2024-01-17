@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/imart/static/css/main.25fa4f47.css",
+    "main.js": "/imart/static/js/main.6d51076a.js",
+    "static/media/slick.svg": "/imart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/imart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/imart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/imart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/imart/index.html",
+    "main.25fa4f47.css.map": "/imart/static/css/main.25fa4f47.css.map",
+    "main.6d51076a.js.map": "/imart/static/js/main.6d51076a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25fa4f47.css",
+    "static/js/main.6d51076a.js"
+  ]
+}
